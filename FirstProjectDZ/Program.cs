@@ -1,0 +1,4 @@
+﻿git commit -m "first commit"
+    // See https://aka.ms/new-console-template for more information
+
+Console.WriteLine("Hello, World!");
